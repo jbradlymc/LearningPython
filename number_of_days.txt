@@ -1,0 +1,29 @@
+PROBLEM 1:
+
+Your task is to write and test a function which takes one argument (a year) and returns True if the year is a leap year, or False otherwise.
+
+The seed of the function is already shown in the skeleton code in the editor.
+
+Note: we've also prepared a short testing code, which you can use to test your function.
+
+The code uses two lists ‒ one with the test data, and the other containing the expected results. The code will tell you if any of your results are invalid.
+
+
+
+PROBLEM 2:
+
+Your task is to write and test a function which takes two arguments (a year and a month) and returns the number of days for the given year-month pair (while only February is sensitive to the year value, your function should be universal).
+
+The initial part of the function is ready. Now, convince the function to return None if its arguments don't make sense.
+
+Of course, you can (and should) use the previously written and tested function (LAB 4.3.1.6). It may be very helpful. We encourage you to use a list filled with the months' lengths. You can create it inside the function ‒ this trick will significantly shorten the code.
+
+We've prepared a testing code. Expand it to include more test cases.
+
+
+PROBLEM 3:
+
+Your task is to write and test a function which takes three arguments (a year, a month, and a day of the month) and returns the corresponding day of the year, or returns None if any of the arguments is invalid.
+
+Use the previously written and tested functions. Add your own test cases to the code.
+
